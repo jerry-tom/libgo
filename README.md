@@ -1,1 +1,1 @@
-# libgo
+# go share library

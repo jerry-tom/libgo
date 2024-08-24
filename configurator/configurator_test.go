@@ -1,0 +1,5 @@
+package configurator
+
+import (
+	"testing"
+)
