@@ -3,7 +3,7 @@ package dborm
 import (
 	"testing"
 
-	"libgo/dbdriver"
+	"github.com/jerryharbour/libgo/dbdriver"
 )
 
 type MarketType int

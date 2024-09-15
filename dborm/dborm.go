@@ -2,7 +2,7 @@ package dborm
 
 import (
 	"fmt"
-	"libgo/dbdriver"
+	"github.com/jerryharbour/libgo/dbdriver"
 
 	"gorm.io/driver/mysql"
 	"gorm.io/driver/sqlite"
