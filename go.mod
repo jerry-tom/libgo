@@ -1,6 +1,6 @@
-module github.com/jerryharbour/libgo
+module github.com/jerry-tom/libgo
 
-go 1.22.1
+go 1.23
 
 require (
 	gorm.io/driver/mysql v1.5.7
