@@ -1,4 +1,4 @@
-module github.com/jerry-tom/libgo
+module github.com/jerryharbour/libgo
 
 go 1.23
 
